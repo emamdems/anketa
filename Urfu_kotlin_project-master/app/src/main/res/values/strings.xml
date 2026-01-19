@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Urfu_kotlin_project</string>
+    <string name="title_user_form">Анкета Пользователя</string>
+    <string name="cd_default_avatar">Аватар пользователя по умолчанию</string>
+    <string name="hint_name">Введите ваше имя</string>
+    <string name="age">Возраст: %d</string>
+    <string name="gender">Ваш пол:</string>
+    <string name="gender_male">Мужской</string>
+    <string name="gender_female">Женский</string>
+    <string name="subscribe">Хочу получать новости</string>
+    <string name="button_send">Отправить анкету</string>
+    <string name="button_select_avatar">Выбрать аватар</string>
+    <string name="error_name_empty">Имя не может быть пустым</string>
+    <string name="subscription_yes">да</string>
+    <string name="subscription_no">нет</string>
+    <string name="result">Имя: %1$s\nВозраст: %2$d\nПол: %3$s\nПодписка: %4$s</string>
+</resources>
